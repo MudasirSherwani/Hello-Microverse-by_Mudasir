@@ -20,7 +20,7 @@
 
 
 ### Prerequisites
-- Visual Studio
+- Visual Studio Code
 - Knowldege About HTML / CSS
 Linters
 - Lighthouse
@@ -67,6 +67,4 @@ Give a ⭐️ if you like this project!
 - etc
 
 ## 📝 License
-
-https://github.com/MudasirSherwani/Hello-Microverse-by_Mudasir/blob/main/LICENSE.md
 This project is [MIT](./MIT.md) licensed.
